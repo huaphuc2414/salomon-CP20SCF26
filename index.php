@@ -11,7 +11,7 @@
     <?php
         echo('<h1 style="color:red;">Xin chào tôi là Hứa Vĩnh Phúc</h1>')
     ?>
-    <a href="pages/Gioi-thieu.php">Giới thiệu</a>
-    <a href="pages/Lien-he.php">Liên hệ</a>
+    <a href="pages/Gioi-thieu.php">Giới thiệu</a><br />
+    <a href="pages/Lien-he.php">Liên hệ</a><br />
 </body>
 </html>
